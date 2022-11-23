@@ -1,7 +1,8 @@
 # NLW eSports Explorer
 
-<h3>Projeto realizado no Evanto Nex Level Week eSports Trilha Explore</h3>
-</br>
+Projeto realizado no Evanto Nex Level Week eSports Trilha Explore
+
+___
 
 ## 🚀 Tecnologias
 
@@ -10,15 +11,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
-</br>
-</br>
+___
 
 ## Tela
 
 <img src="readme-imagem.jpg">
-</br>
-</br>
 
----
+___
 
 Feito por Jackson Gravino
